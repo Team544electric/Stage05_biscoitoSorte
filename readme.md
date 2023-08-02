@@ -3,6 +3,7 @@
 Biscoito da sorte é o primeiro desafio do Stage05 do explore.
 
 [Link do figma para o projeto](https://www.figma.com/file/ySe0tCmiih4wiFmZt3Vdr9/Biscoito-da-Sorte-(Community)?type=design&node-id=0-1&mode=design&t=AXCEhAQiPTnrKAF1-0)
+
 [Link para o notion com a instrução do desafio](https://efficient-sloth-d85.notion.site/Biscoito-da-Sorte-3ec5cf82a6dc41eb9672f21351a309b8)
 
 Sobre o desafio:
